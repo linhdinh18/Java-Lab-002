@@ -7,7 +7,7 @@
  *
  */
 
-import java.sql.SQLOutput;
+
 import java.util.Scanner;
 // Here are a few examples of format specifiers:
 public class Bonus {
